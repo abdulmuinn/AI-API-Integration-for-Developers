@@ -6,3 +6,4 @@
 5. Buat file .env untuk menyimpan GEMINI_API_KEY  
 6. Buat file .env.example untuk contoh env variabel  
 7. Buat file index.js untuk menulis kode server
+8. Jalankan node index.js untuk test hasilnya
